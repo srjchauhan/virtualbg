@@ -1,0 +1,1 @@
+from .SelfiSegmentationModule import SelfiSegmentation
